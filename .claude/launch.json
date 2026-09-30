@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "labcloud",
+      "runtimeExecutable": "uv",
+      "runtimeArgs": ["run", "labcloud"],
+      "port": 8000
+    }
+  ]
+}
